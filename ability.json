@@ -1,0 +1,443 @@
+[
+    {
+        "name": {
+            "en": "Arena Trap",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"Upon entering a battle, a Pokémon with Arena Trap will prevent the opposing Pokémon from switching out.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with Arena Trap in the first slot of the players party will increase the wild Pokémon encounter rate by 10%.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Prevents the foe from fleeing",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Cute Charm",
+            "cn": "迷人之軀"
+        },
+        "effect": {
+            "battle": {
+                "en":"If a Pokémon with Cute Charm is hit by a move that makes contact, there is a 30% chance the attacker will become infatuated. It will not infatuate Pokémon of the same gender, genderless Pokémon, nor those with the ability Oblivious. Infatuated Pokémon has a 50% chance of being immobilized by love each turn and unable to attack.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"If a Pokémon with Cute Charm is the leading party Pokémon, the chance of encountering a Pokémon of the opposite gender is 1/4.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Contact with the Pokémon may cause infatuation.",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Flame Body",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"During a battle, a Pokémon with Flame Body that gets hit with an attack that makes contact will burn the attacking Pokémon.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with Flame Body in the first slot of the players party will reduce the amount of time it takes an egg to hatch.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Contact with the Pokémon may burn the attacker.",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Hustle",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"Boosts the Attack stat, but lowers accuracy.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with Hustle in the first slot of the players party will attract higher level enemies.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Boosts the Attack stat, but lowers accuracy.",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Illuminate",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"Illuminate has no known effect in battle.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with Illuminate in the first slot of the players party will increase the wild Pokémon encounter rate by 10%.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Raises the likelihood of meeting wild Pokémon.",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Intimidate",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"If a Pokémon has this ability, it lowers the foes attack by one stage upon entering battle.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with Intimidate in the first slot of the players party will repel some lower leveled enemies.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Lowers the foe's Attack stat.",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Keen Eye",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"If a Pokémon has this ability, it prevents other Pokémon from lowering it's accuracy.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with Keen Eye in the first slot of the players party will repel some lower leveled enemies.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Prevents other Pokémon from lowering accuracy.",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Magma Armor",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"During a battle, a Pokémon with Magma Armor cannot be frozen.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with Magma Armor in the first slot of the players party will reduce the amount of time it takes an egg to hatch.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Prevents the Pokémon from becoming frozen.",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "No Guard",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"No Guard enables both Pokémon to never miss a move (and for some reason enables attacks to hit Pokémon that use Fly).",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with No Guard in the first slot of the players party will increase the wild Pokémon encounter rate by 10%.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Ensures attacks by or against the Pokémon land.",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Pickup",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"In PokeMMO Pickup does not work like in the original games. Only the first Pokémon in the party can use the ability and must be alive at the end of a battle.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"In PokeMMO Pickup does not work like in the original games. Only the first Pokémon in the party can use the ability and must be alive at the end of a battle.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"May pick up items after defeating wild Pokémon.",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Pressure",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"During a battle, when a Pokémon with Pressure is targeted the attacker's PP usage is doubled.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with Pressure in the first slot of the players party will repel some lower leveled enemies.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Doubles the foe's PP usage when they target it",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Quick Feet",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"During a battle, a Pokémon with Quick Feet that incurs a status problem will have its Speed boosted.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with Quick Feet in the first slot of the players party will decrease the wild Pokémon encounter rate by 10%.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Boosts Speed if there is a status problem.",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Sand Veil",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"Upon entering a battle, a Pokémon with Sand Veil will raise the ability-bearer's evasion by 20% in a Sandstorm. If the ability-bearing Pokémon has Ground / Rock / Steel typing the Pokémon will have no effect",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with Sand Veil in the first slot of the players party will reduce wild Pokémon encounter rates by 25% during sandstorms.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Boosts the Pokémon's evasion in a sandstorm.",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Snow Cloak",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"During a battle, a Pokémon with Snow Cloak will have boosted evasion during a hailstorm.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with Snow Cloak in the first slot of the players party will decrease the wild Pokémon encounter rate by 25% during snowstorms.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Raises evasion in a hailstorm.",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Stench",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"Pokémon with Stench as their ability may cause the target to flinch.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with Stench in the first slot of the players party will reduce the wild encounter rate by 15%.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"The stench may cause the target to flinch.",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Sticky Hold",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"Pokémon with Sticky Hold cannot have their item stolen in battle.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with Sticky Hold in the first slot of the players party will increase the bite rate while fishing.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Protects the Pokémon from item theft",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Suction Cups",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"Negates all moves that force switching out.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with Suction Cups in the first slot of the players party will increase the bite rate while fishing similar to Sticky Hold.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Negates all moves that force switching out.",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Swarm",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"Powers up Bug-type moves in a pinch.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with Swarm in the first slot of the players party will increase the wild Pokémon encounter rate by 10%.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Powers up Bug-type moves in a pinch.",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Synchronize",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"When a Pokémon with Synchronize is burned, paralyzed, or poisoned by another Pokémon, that Pokémon will be inflicted with the same status condition. Synchronize will not inflict sleep or freeze. Even if Synchronize would have no effect due to the other Pokémon already having a status condition or the other Pokémon's type, Ability, or team condition (e.g. Safeguard), it will still activate (revealing it as the Pokémon's Ability), but have no effect. Synchronize can affect a Pokémon behind a substitute. Synchronize can be activated by other Pokémon's Abilities, such as Static, but cannot be activated by the Toxic Orb or Flame Orb. If a Pokémon with Synchronize has a Berry that cures the status condition it was just inflicted with, Synchronize will activate before the Berry is eaten.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with Synchronize in the first slot of the players party will give a 1/5 chance for a wild Pokémon's nature to match the nature of the Pokémon with the Synchronize ability.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Passes a burn, poison, or paralysis to the foe.",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Vital Spirit",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"Vital Spirit will prevent the Pokémon from falling asleep.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with Vital Spirit in the first slot of the players party will attract higher level enemies.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Prevents the Pokémon from falling asleep.",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "White Smoke",
+            "cn": ""
+        },
+        "effect": {
+            "battle": {
+                "en":"During a battle, a Pokémon with White Smoke cannot have its stats reduced.",
+                "cn":""
+            },
+            "overworld": {
+                "en":"A Pokémon with White Smoke in the first slot of the players party will reduce the wild Pokémon encounter rate by 15%.",
+                "cn":""
+            }
+        },
+        "description":{
+            "en":"Prevents foes reducing its stats.",
+            "cn":""
+        },
+        "overworld": true
+    }
+]
