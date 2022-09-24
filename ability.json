@@ -2,21 +2,21 @@
     {
         "name": {
             "en": "Arena Trap",
-            "cn": ""
+            "cn": "沙穴"
         },
         "effect": {
             "battle": {
                 "en":"Upon entering a battle, a Pokémon with Arena Trap will prevent the opposing Pokémon from switching out.",
-                "cn":""
+                "cn":"使對方所有非幽靈屬性的地面上的寶可夢處於無法逃走狀態，不能替換或逃走"
             },
             "overworld": {
                 "en":"A Pokémon with Arena Trap in the first slot of the players party will increase the wild Pokémon encounter rate by 10%.",
-                "cn":""
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，遇到野生寶可夢出現機率增加10%"
             }
         },
         "description":{
             "en":"Prevents the foe from fleeing",
-            "cn":""
+            "cn":"具有此特性的寶可夢可以阻止敵方的寶可夢逃跑，除非他們是飛行屬性寶可夢或具有飄浮特性的寶可夢。它們甚至不能交換。儘管如此，它們仍然使用急速折返、伏特替換等招式交換出去。這是需要注意的。更重要的是……如果把擁有該特性的寶可夢放置在同行寶可夢的首位，遇到野生寶可夢的機率會提高至2倍。"
         },
         "overworld": true
     },
@@ -28,116 +28,116 @@
         "effect": {
             "battle": {
                 "en":"If a Pokémon with Cute Charm is hit by a move that makes contact, there is a 30% chance the attacker will become infatuated. It will not infatuate Pokémon of the same gender, genderless Pokémon, nor those with the ability Oblivious. Infatuated Pokémon has a 50% chance of being immobilized by love each turn and unable to attack.",
-                "cn":""
+                "cn":"異性寶可夢使用接觸類招式攻擊該特性的寶可夢時會有30%的機率著迷。 連續招式的每一擊都會單獨觸發該特性。 在闖入對戰中，能讓入場寶可夢與隊首寶可夢性別不同的概率變為50%。"
             },
             "overworld": {
                 "en":"If a Pokémon with Cute Charm is the leading party Pokémon, the chance of encountering a Pokémon of the opposite gender is 1/4.",
-                "cn":""
+                "cn":"當該特性的寶可夢配置在隊伍首位時，出現的野生寶可夢為異性的機率變為2⁄3，大量出現、隱藏洞穴的寶可夢不受影響。"
             }
         },
         "description":{
             "en":"Contact with the Pokémon may cause infatuation.",
-            "cn":""
+            "cn":"這種特性的寶可夢在受到對方直接攻擊時，有時會讓對方陷入著迷狀態。還有……當這種特性的寶可夢在隊首時，容易遇到與自己性別不同的寶可夢。"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "Flame Body",
-            "cn": ""
+            "cn": "火焰之軀"
         },
         "effect": {
             "battle": {
                 "en":"During a battle, a Pokémon with Flame Body that gets hit with an attack that makes contact will burn the attacking Pokémon.",
-                "cn":""
+                "cn":"使用接觸類招式攻擊該特性的寶可夢時會有30%的機率灼傷。 連續招式的每一擊都會單獨觸發該特性。"
             },
             "overworld": {
                 "en":"A Pokémon with Flame Body in the first slot of the players party will reduce the amount of time it takes an egg to hatch.",
-                "cn":""
+                "cn":"當該特性的寶可夢在隊伍首位時，隊伍中蛋孵化的速度提高為原來的2倍。此效果不會與自身、熔岩鎧甲或蒸汽機疊加，但是它會與釋出之力、O力量或孵蛋碰碰疊加。"
             }
         },
         "description":{
             "en":"Contact with the Pokémon may burn the attacker.",
-            "cn":""
+            "cn":"這種特性的寶可夢受到對方直接攻擊時，有時會讓對方燒傷。還有……當隊伍中有蛋時，可以加快孵化速度。"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "Hustle",
-            "cn": ""
+            "cn": "活力"
         },
         "effect": {
             "battle": {
                 "en":"Boosts the Attack stat, but lowers accuracy.",
-                "cn":""
+                "cn":"攻擊提升為原來的1.5倍，物理招式的命中率×0.8。"
             },
             "overworld": {
                 "en":"A Pokémon with Hustle in the first slot of the players party will attract higher level enemies.",
-                "cn":""
+                "cn":"當該特性的寶可夢配置在隊伍首位時，出現等級更高的野生寶可夢機率提升50%。"
             }
         },
         "description":{
             "en":"Boosts the Attack stat, but lowers accuracy.",
-            "cn":""
+            "cn":"這種特性的寶可夢在攻擊威力提升的同時，會降低招式命中率。一定命中的招式命中率不會發生變化，但威力會上升，最好記住這點。還有這種特性的寶可夢在隊首時，容易遇到高等級的寶可夢。"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "Illuminate",
-            "cn": ""
+            "cn": "發光"
         },
         "effect": {
             "battle": {
                 "en":"Illuminate has no known effect in battle.",
-                "cn":""
+                "cn":"無"
             },
             "overworld": {
                 "en":"A Pokémon with Illuminate in the first slot of the players party will increase the wild Pokémon encounter rate by 10%.",
-                "cn":""
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，遇到野生寶可夢出現機率增加10%"
             }
         },
         "description":{
             "en":"Raises the likelihood of meeting wild Pokémon.",
-            "cn":""
+            "cn":"這種特性的寶可夢在隊首時，容易遇到野生寶可夢。順便說下，該特性在戰鬥中的效果還是未知。"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "Intimidate",
-            "cn": ""
+            "cn": "威嚇"
         },
         "effect": {
             "battle": {
                 "en":"If a Pokémon has this ability, it lowers the foes attack by one stage upon entering battle.",
-                "cn":""
+                "cn":"出場或獲得此特性時所有攻擊範圍內的對手的攻擊下降1級。對處於飛翔、潛水、挖洞或暗影潛襲狀態的寶可夢有效。 擁有恆淨之軀、怪力鉗、白色煙霧、金屬防護、精神力、遲鈍、膽量和我行我素特性的寶可夢不受影響。 處於替身狀態的寶可夢不受影響。 增加闖入對戰發生的機率。 在三打對戰中，若該特性的寶可夢不是從中間出場，則只能威嚇到與該寶可夢相同一側和中間的寶可夢。 膽怯特性的寶可夢，在受到威嚇後能夠提升速度。"
             },
             "overworld": {
                 "en":"A Pokémon with Intimidate in the first slot of the players party will repel some lower leveled enemies.",
-                "cn":""
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，出現等級更低的野生寶可夢機率降低50%"
             }
         },
         "description":{
             "en":"Lowers the foe's Attack stat.",
-            "cn":""
+            "cn":"這種特性的寶可夢在戰鬥中登場時，會讓對方寶可夢的攻擊力降低一級。 還有....當這種特性的寶可夢在隊首時，會降低遇到低等級寶可夢的機率。"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "Keen Eye",
-            "cn": ""
+            "cn": "銳利目光"
         },
         "effect": {
             "battle": {
                 "en":"If a Pokémon has this ability, it prevents other Pokémon from lowering it's accuracy.",
-                "cn":""
+                "cn":"命中率能力變化不會被對方以任何方式降低，無視目標閃避率能力變化的提升。奇跡皮膚對銳利目光特性的寶可夢無效。"
             },
             "overworld": {
                 "en":"A Pokémon with Keen Eye in the first slot of the players party will repel some lower leveled enemies.",
-                "cn":""
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，出現等級更低的野生寶可夢機率降低50%"
             }
         },
         "description":{
@@ -149,294 +149,483 @@
     {
         "name": {
             "en": "Magma Armor",
-            "cn": ""
+            "cn": "熔岩鎧甲"
         },
         "effect": {
             "battle": {
                 "en":"During a battle, a Pokémon with Magma Armor cannot be frozen.",
-                "cn":""
+                "cn":"該特性的寶可夢不會陷入冰凍狀態。"
             },
             "overworld": {
                 "en":"A Pokémon with Magma Armor in the first slot of the players party will reduce the amount of time it takes an egg to hatch.",
-                "cn":""
+                "cn":"當該特性的寶可夢在隊伍時，隊伍中蛋孵化的速度提高為原來的2倍。 此效果不會與自身、火焰之軀或蒸汽機疊加，但是它會與釋出之力、O力量或孵蛋碰碰疊加。"
             }
         },
         "description":{
             "en":"Prevents the Pokémon from becoming frozen.",
-            "cn":""
+            "cn":"這種特性的寶可夢不會被冰凍，還有……當隊伍中有蛋時，可以加快孵化速度。"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "No Guard",
-            "cn": ""
+            "cn": "無防守"
         },
         "effect": {
             "battle": {
                 "en":"No Guard enables both Pokémon to never miss a move (and for some reason enables attacks to hit Pokémon that use Fly).",
-                "cn":""
+                "cn":"該特性寶可夢使用的招式與以該特性寶可夢為目標的招式都一定會命中，包括在飛翔、挖洞等情況的寶可夢都可以被擊中。只會影響命中，不能穿透守住、快速防守、廣域防守的保護。"
             },
             "overworld": {
                 "en":"A Pokémon with No Guard in the first slot of the players party will increase the wild Pokémon encounter rate by 10%.",
-                "cn":""
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，野生寶可夢出現機率增加50%。"
             }
         },
         "description":{
             "en":"Ensures attacks by or against the Pokémon land.",
-            "cn":""
+            "cn":"擁有這種特性的寶可夢所使用的招式必定能命中他們的目標。更重要的是……當它為同行寶可夢的首位時，會增加遇到野生寶可夢的機會。"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "Pickup",
-            "cn": ""
+            "cn": "撿拾"
         },
         "effect": {
             "battle": {
                 "en":"In PokeMMO Pickup does not work like in the original games. Only the first Pokémon in the party can use the ability and must be alive at the end of a battle.",
-                "cn":""
+                "cn":"對戰中該特性無效。"
             },
             "overworld": {
                 "en":"In PokeMMO Pickup does not work like in the original games. Only the first Pokémon in the party can use the ability and must be alive at the end of a battle.",
-                "cn":""
+                "cn":"在對戰結束後有10%機率會撿拾到特定物品，撿拾以攜帶表示，當寶可夢已攜帶物品時該特性無效。在部分戰鬥設施中撿拾無效。"
             }
         },
         "description":{
             "en":"May pick up items after defeating wild Pokémon.",
-            "cn":""
+            "cn":"這種特性的寶可夢可以在回合結束時，拾取對方使用過的道具，攜帶在自己身上。還有……即使不參加戰鬥，也會在不知不覺中拾取到道具。順便說一下……寶可夢的等級越高就越容易撿到好道具，最好記住這點。不過……這些都要以這個寶可夢沒有攜帶任何道具為前提。"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "Pressure",
-            "cn": ""
+            "cn": "壓迫感"
         },
         "effect": {
             "battle": {
                 "en":"During a battle, when a Pokémon with Pressure is targeted the attacker's PP usage is doubled.",
-                "cn":""
+                "cn":"使用招式以該特性的寶可夢為目標時，每有一隻該特性的寶可夢，多損失1點ＰＰ。友方寶可夢使用招式時則不會觸發該特性。 該特性不受破格、兆級電壓和渦輪火焰特性影響。 無論招式是否命中或有效，該效果都會生效。例如被守住或替身阻擋、幽靈屬性寶可夢受到近身戰的攻擊等。廣域戰力和龍箭攻擊時，只計算選擇位置寶可夢可能的壓迫感，至多只會多損失1點ＰＰ。"
             },
             "overworld": {
                 "en":"A Pokémon with Pressure in the first slot of the players party will repel some lower leveled enemies.",
-                "cn":""
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，遭遇某一種野生寶可夢時，它的等級有50%機率為當地可能出現的最高等級。 此特性還會增加闖入對戰發生的機率。"
             }
         },
         "description":{
             "en":"Doubles the foe's PP usage when they target it",
-            "cn":""
+            "cn":"這種特性的寶可夢會讓對手招式的ＰＰ加倍消耗。 還有....當這種寶可夢在隊首時，容易遇到高等級的寶可夢。"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "Quick Feet",
-            "cn": ""
+            "cn": "飛毛腿"
         },
         "effect": {
             "battle": {
                 "en":"During a battle, a Pokémon with Quick Feet that incurs a status problem will have its Speed boosted.",
-                "cn":""
+                "cn":"陷入異常狀態時速度提升50%，並無視麻痺降低速度的效果。異常狀態恢復或失去特性時速度恢復。"
             },
             "overworld": {
                 "en":"A Pokémon with Quick Feet in the first slot of the players party will decrease the wild Pokémon encounter rate by 10%.",
-                "cn":""
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，遇到野生寶可夢出現機率降低10%"
             }
         },
         "description":{
             "en":"Boosts Speed if there is a status problem.",
-            "cn":""
+            "cn":"當寶可夢陷入異常狀態時，此特性會提升速度。它也抵消了麻痺的減速效果。更重要的是……它降低了遇到野生寶可夢的機率。"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "Sand Veil",
-            "cn": ""
+            "cn": "沙隱"
         },
         "effect": {
             "battle": {
                 "en":"Upon entering a battle, a Pokémon with Sand Veil will raise the ability-bearer's evasion by 20% in a Sandstorm. If the ability-bearing Pokémon has Ground / Rock / Steel typing the Pokémon will have no effect",
-                "cn":""
+                "cn":"在沙暴天氣中閃避率提升20%，並且不會受到沙暴天氣損失體力的影響。"
             },
             "overworld": {
                 "en":"A Pokémon with Sand Veil in the first slot of the players party will reduce wild Pokémon encounter rates by 25% during sandstorms.",
-                "cn":""
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，在沙暴天氣下野生寶可夢出現機率降低25%"
             }
         },
         "description":{
             "en":"Boosts the Pokémon's evasion in a sandstorm.",
-            "cn":""
+            "cn":"在天氣為沙暴的時候，寶可夢的閃避率提升20％，而且不會受到沙暴天氣的傷害。還有，這種特性的寶可夢在隊首時，並且天氣為沙暴時，遇到野生寶可夢的機率會降低。"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "Snow Cloak",
-            "cn": ""
+            "cn": "雪隱"
         },
         "effect": {
             "battle": {
                 "en":"During a battle, a Pokémon with Snow Cloak will have boosted evasion during a hailstorm.",
-                "cn":""
+                "cn":"在冰雹天氣中閃避率提升20%，並且不受冰雹天氣損失體力影響。"
             },
             "overworld": {
                 "en":"A Pokémon with Snow Cloak in the first slot of the players party will decrease the wild Pokémon encounter rate by 25% during snowstorms.",
-                "cn":""
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，在冰雹天氣中野生寶可夢出現機率降低25%"
             }
         },
         "description":{
             "en":"Raises evasion in a hailstorm.",
-            "cn":""
+            "cn":"這種特性的寶可夢在冰雹天氣裡，閃避率上升。還有這種特性的寶可夢在隊首時，並且為冰雹天氣時，不易遇到野生寶可夢。"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "Stench",
-            "cn": ""
+            "cn": "惡臭"
         },
         "effect": {
             "battle": {
                 "en":"Pokémon with Stench as their ability may cause the target to flinch.",
-                "cn":""
+                "cn":"使用招式攻擊對手造成傷害時，對方有10%機率陷入畏縮狀態。 該效果與王者之證／銳利之牙不疊加。"
             },
             "overworld": {
                 "en":"A Pokémon with Stench in the first slot of the players party will reduce the wild encounter rate by 15%.",
-                "cn":""
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，遇到野生寶可夢出現機率降低15%"
             }
         },
         "description":{
             "en":"The stench may cause the target to flinch.",
-            "cn":""
+            "cn":"這種特性的寶可夢在給予對方傷害時，有時會讓對手畏縮，還有……當這種特性的寶可夢在隊首時，遇到野生寶可夢的機率會減少。"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "Sticky Hold",
-            "cn": ""
+            "cn": "黏著"
         },
         "effect": {
             "battle": {
                 "en":"Pokémon with Sticky Hold cannot have their item stolen in battle.",
-                "cn":""
+                "cn":"攜帶物品不會受到其他寶可夢以下招式的影響：渴望、小偷的奪取；戲法、掉包的交換；拍落不會使物品消失，但仍會受到拍落的傷害加成。 蟲咬、啄食的消耗。 黏著特性不影響附著針。 破格、兆級電壓和渦輪火焰影響黏著特性。"
             },
             "overworld": {
                 "en":"A Pokémon with Sticky Hold in the first slot of the players party will increase the bite rate while fishing.",
-                "cn":""
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，釣魚時寶可夢更容易上鈎。"
             }
         },
         "description":{
             "en":"Protects the Pokémon from item theft",
-            "cn":""
+            "cn":"這個特性可以防止寶可夢持有的道具被偷走。更重要的是……它讓寶可夢在釣魚時更容易咬鈎，當該特性的寶可夢配置在同行寶可夢首位時。"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "Suction Cups",
-            "cn": ""
+            "cn": "吸盤"
         },
         "effect": {
             "battle": {
                 "en":"Negates all moves that force switching out.",
-                "cn":""
+                "cn":"強制替換寶可夢的招式效果以及紅牌無效。 自身使用的離場招式（瞬間移動、接棒等）或自身攜帶的逃脫按鍵不受此特性影響。"
             },
             "overworld": {
                 "en":"A Pokémon with Suction Cups in the first slot of the players party will increase the bite rate while fishing similar to Sticky Hold.",
-                "cn":""
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，釣魚時寶可夢更容易上鈎。"
             }
         },
         "description":{
             "en":"Negates all moves that force switching out.",
-            "cn":""
+            "cn":"這種特性的寶可夢會讓吹飛招式失效。還有……當這種特性的寶可夢在隊首時，用釣竿時，可以讓寶可夢更容易上鈎。"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "Swarm",
-            "cn": ""
+            "cn": "蟲之預感"
         },
         "effect": {
             "battle": {
                 "en":"Powers up Bug-type moves in a pinch.",
-                "cn":""
+                "cn":"當ＨＰ不超過1⁄3時，蟲屬性招式的威力增長為1.5倍。"
             },
             "overworld": {
                 "en":"A Pokémon with Swarm in the first slot of the players party will increase the wild Pokémon encounter rate by 10%.",
-                "cn":""
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，遇到野生寶可夢出現機率增加10%"
             }
         },
         "description":{
             "en":"Powers up Bug-type moves in a pinch.",
-            "cn":""
+            "cn":"這種特性的寶可夢在ＨＰ很少的危急關頭，蟲屬性招式的威力會提升，危急關頭也不可以放棄呀！"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "Synchronize",
-            "cn": ""
+            "cn": "同步"
         },
         "effect": {
             "battle": {
                 "en":"When a Pokémon with Synchronize is burned, paralyzed, or poisoned by another Pokémon, that Pokémon will be inflicted with the same status condition. Synchronize will not inflict sleep or freeze. Even if Synchronize would have no effect due to the other Pokémon already having a status condition or the other Pokémon's type, Ability, or team condition (e.g. Safeguard), it will still activate (revealing it as the Pokémon's Ability), but have no effect. Synchronize can affect a Pokémon behind a substitute. Synchronize can be activated by other Pokémon's Abilities, such as Static, but cannot be activated by the Toxic Orb or Flame Orb. If a Pokémon with Synchronize has a Berry that cures the status condition it was just inflicted with, Synchronize will activate before the Berry is eaten.",
-                "cn":""
+                "cn":"其他寶可夢對自身造成灼傷、中毒、劇毒、麻痺時，自身對那隻寶可夢造成相同的異常狀態。 若特性為同步的寶可夢同時攜帶可以治癒它異常狀態的樹果，那麼觸發樹果效果前觸發同步特性。 若處於異常狀態的非同步特性寶可夢對特性為同步的寶可夢使用精神轉移，同步特性會在異常狀態被治癒之前觸發，使得特性發動失敗，前者的異常狀態可以解除。 兩隻寶可夢連續因為同步而觸發，但是字幕會顯示同步失敗。 以下情況不會觸發同步特性： 若由於接觸到毒菱而陷入中毒狀態； 若由於攜帶到劇毒寶珠或火焰寶珠而陷入中毒或灼傷狀態。"
             },
             "overworld": {
                 "en":"A Pokémon with Synchronize in the first slot of the players party will give a 1/5 chance for a wild Pokémon's nature to match the nature of the Pokémon with the Synchronize ability.",
-                "cn":""
+                "cn":"當該特性的寶可夢是同行寶可夢首位時，遇到的定點出現的野生寶可夢的性格有50%概率與它相同。"
             }
         },
         "description":{
             "en":"Passes a burn, poison, or paralysis to the foe.",
-            "cn":""
+            "cn":"這種特性的寶可夢，在中毒、麻痺或燒傷時，對方也會變成相同的異常狀態。還有……當這種特性的寶可夢在隊首時，容易遇到具有相同性格的寶可夢 。"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "Vital Spirit",
-            "cn": ""
+            "cn": "幹勁"
         },
         "effect": {
             "battle": {
                 "en":"Vital Spirit will prevent the Pokémon from falling asleep.",
-                "cn":""
+                "cn":"該特性的寶可夢不會陷入睡眠狀態，另外睡覺招式會無效。"
             },
             "overworld": {
                 "en":"A Pokémon with Vital Spirit in the first slot of the players party will attract higher level enemies.",
-                "cn":""
+                "cn":"當該特性的寶可夢配置在隊伍首位時，出現等級更高的野生寶可夢機率提升為50%"
             }
         },
         "description":{
             "en":"Prevents the Pokémon from falling asleep.",
-            "cn":""
+            "cn":"這種特性的寶可夢在對戰中不會睡著。還有……這種特性的寶可夢在隊首時，容易遇見高等級的寶可夢。"
         },
         "overworld": true
     },
     {
         "name": {
             "en": "White Smoke",
-            "cn": ""
+            "cn": "白色煙霧"
         },
         "effect": {
             "battle": {
                 "en":"During a battle, a Pokémon with White Smoke cannot have its stats reduced.",
-                "cn":""
+                "cn":"在通常情況下，能力不會被對方及同伴的招式和特性降低（例如招式鬼面、特性威嚇等）。 白色煙霧特性不能阻止以下能力的降低方式： 自身使用降低自身能力的招式：蠻力、臂錘等； 自身攜帶降低能力的道具：黑色鐵球等； 降低能力的異常狀態：麻痺、灼傷； 與對方平分能力的招式：防守平分、力量平分； 與對方交換能力的招式：心靈互換、防守互換、力量互換； 與同行寶可夢傳遞能力的招式：接棒； 改變能力的招式：顛倒； 無視白色煙霧的特性：破格、渦輪火焰、兆級電壓。"
             },
             "overworld": {
                 "en":"A Pokémon with White Smoke in the first slot of the players party will reduce the wild Pokémon encounter rate by 15%.",
-                "cn":""
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，遇到野生寶可夢出現機率降低15%"
             }
         },
         "description":{
             "en":"Prevents foes reducing its stats.",
+            "cn":"擁有此特性的寶可夢可以抵抗降低能力的招式。但是!灼傷狀態仍然使他們的攻擊減半，麻痺狀態仍然使他們的速度降低到原來的四分之一。更重要的是……它降低了遇到野生寶可夢的機率。"
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Compound Eyes",
+            "cn": "複眼"
+        },
+        "effect": {
+            "battle": {
+                "en":"",
+                "cn":"自身招式的命中率乘以1.3。"
+            },
+            "overworld": {
+                "en":"",
+                "cn":"當該特性的寶可夢配置在隊伍首位時，野生寶可夢攜帶物品的機率增加："
+            }
+        },
+        "description":{
+            "en":"",
+            "cn":"這個特性能提高了寶可夢自身招式的命中率。更重要的是……當該特性的寶可夢配置在隊伍首位時，野生寶可夢攜帶物品的機率會得到增加。"
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Super Luck",
+            "cn": "超幸運"
+        },
+        "effect": {
+            "battle": {
+                "en":"",
+                "cn":"擊中要害等級提升1級。可以與要害攻擊、聚氣疊加。"
+            },
+            "overworld": {
+                "en":"",
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，野生寶可夢攜帶物品的概率增加。"
+            }
+        },
+        "description":{
+            "en":"",
+            "cn":"這種特性的寶可夢的招式容易命中對方要害。"
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Static",
+            "cn": "靜電"
+        },
+        "effect": {
+            "battle": {
+                "en":"",
+                "cn":"使用接觸類招式攻擊該特性的寶可夢時會有30%的機率麻痺。連續招式的每一擊都會單獨觸發該特性。"
+            },
+            "overworld": {
+                "en":"",
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，電屬性野生寶可夢出現機率增加50%。"
+            }
+        },
+        "description":{
+            "en":"",
+            "cn":"這種特性的寶可夢受到對方直接攻擊時，有時會讓對方麻痺。還有……當這種特性的寶可夢在隊首時，容易遇到電屬性寶可夢。"
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Magnet Pull",
+            "cn": "磁力"
+        },
+        "effect": {
+            "battle": {
+                "en":"",
+                "cn":"使對方非幽靈屬性的鋼屬性寶可夢進入無法逃走狀態，無法替換或逃走。"
+            },
+            "overworld": {
+                "en":"",
+                "cn":"如果所在區域存在野生的鋼屬性寶可夢，出現鋼屬性野生寶可夢的機率上升50%。"
+            }
+        },
+        "description":{
+            "en":"",
+            "cn":"這種特性的寶可夢，會讓鋼屬性的寶可夢無法逃走，也不可以被替換，但是招式的效果是替換時，該特性失效，最好記住這點。還有....當這種特性的寶可夢在隊首時，容易遇到鋼屬性的寶可夢。"
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Harvest",
+            "cn": "收穫"
+        },
+        "effect": {
+            "battle": {
+                "en":"",
+                "cn":"每回合結束有50%機率獲得使用過的樹果（包括對方寶可夢攜帶，但被該特性的寶可夢使用），大晴天或大日照下機率為100%。 收穫特性每回合最多觸發一次。如果攜帶的樹果在再次獲得後立即被消耗，直到下一次收穫能再次觸發。 如果超過一個寶可夢有收穫特性，速度快的寶可夢先獲得使用過的樹果。 收穫特性無法重複獲得被其他寶可夢使用的樹果。例如對方寶可夢使用了蟲咬。"
+            },
+            "overworld": {
+                "en":"",
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，能夠提升野外遭遇草屬性寶可夢的概率。"
+            }
+        },
+        "description":{
+            "en":"",
+            "cn":"具有這種特性的寶可夢有時會獲得它們使用的樹果。記住，如果天氣為晴朗，樹果總是會被獲得的。"
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Flash Fire",
+            "cn": "引火"
+        },
+        "effect": {
+            "battle": {
+                "en":"",
+                "cn":"具有該特性的寶可夢不受火屬性招式的影響，當被火屬性的招式擊中時，此寶可夢標記為引火狀態，直到換下場或者失去此特性。 該特性只能確保自己不受火屬性招式的傷害，不能吸引火屬性招式。 可以抵禦火屬性的變化招式。包括通過其他方式變為火屬性的變化招式。 對於連續招式，只會抵禦第一次攻擊。 觸發該特性時，與沒有效果相同，不會觸發招式的附加效果。 只要此寶可夢已處於引火狀態，此寶可夢使用火屬性攻擊招式時，寶可夢的攻擊和特攻×1.5。當該特性的寶可夢處於冰凍，該特性可以觸發。烈焰濺射無法觸發引火。"
+            },
+            "overworld": {
+                "en":"",
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，能夠提升野外遭遇火屬性寶可夢的概率。"
+            }
+        },
+        "description":{
+            "en":"",
+            "cn":"這種特性的寶可夢受到火屬性招式攻擊時不會受到傷害。反而會讓自己的火屬性招式威力提升。"
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Storm Drain",
+            "cn": "引水"
+        },
+        "effect": {
+            "battle": {
+                "en":"",
+                "cn":""
+            },
+            "overworld": {
+                "en":"",
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，能夠提升野外遭遇水屬性寶可夢的概率。"
+            }
+        },
+        "description":{
+            "en":"",
             "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Lightning Rod",
+            "cn": "避雷針"
+        },
+        "effect": {
+            "battle": {
+                "en":"",
+                "cn":""
+            },
+            "overworld": {
+                "en":"",
+                "cn":"當該特性的寶可夢配置在同行寶可夢首位時，能夠提升在野外遭遇電屬性寶可夢的概率。"
+            }
+        },
+        "description":{
+            "en":"",
+            "cn":""
+        },
+        "overworld": true
+    },
+    {
+        "name": {
+            "en": "Honey Gather",
+            "cn": "採蜜"
+        },
+        "effect": {
+            "battle": {
+                "en":"",
+                "cn":""
+            },
+            "overworld": {
+                "en":"",
+                "cn":"在對戰結束後，如果擁有該特性的寶可夢沒有攜帶物品，那麼它可能採到甜甜蜜，等級越高採到甜甜蜜的機率越高。"
+            }
+        },
+        "description":{
+            "en":"",
+            "cn":"這種特性的寶可夢在對戰結束後，偶爾會拾到甜甜蜜。這種特性的寶可夢等級越高越容易拾到甜甜蜜，最好記住這點。"
         },
         "overworld": true
     }
